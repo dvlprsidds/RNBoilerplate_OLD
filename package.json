@@ -1,0 +1,8 @@
+{
+  "name": "RNBoilerplate",
+  "version": "0.0.1",
+  "description": "React Native Template",
+  "repository": "git@github.com:dvlprsidds/RNBoilerplate.git",
+  "author": "Siddu Byakod <dvlprsidds@gmail.com>",
+  "license": "MIT"
+}
